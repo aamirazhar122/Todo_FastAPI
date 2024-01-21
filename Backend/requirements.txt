@@ -1,0 +1,11 @@
+requests
+pydantic
+email-validator 
+psycopg2-binary
+SQLAlchemy
+pytest
+fastapi
+uvicorn
+httpie
+httpx
+pydantic
